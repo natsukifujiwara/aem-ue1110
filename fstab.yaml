@@ -2,4 +2,4 @@ mountpoints:
   /:
     url: "https://author-p153479-e1781243.adobeaemcloud.com/bin/franklin.delivery/natsukifujiwara/aem-ue1110/main"
     type: "markup"
-    suffix: ".html"
+    suffix: ".html" 
