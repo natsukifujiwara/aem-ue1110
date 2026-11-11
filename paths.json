@@ -6,7 +6,7 @@
     "/content/dam/wknd-xwalk2/:/assets/"
   ],
   "includes": [
-    "/content/wknd-xwalk2",
+    "/content/wknd-xwalk2/",
     "/content/dam/wknd-xwalk2/"
   ]
 }
