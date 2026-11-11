@@ -1,0 +1,12 @@
+{
+  "mappings": [
+    "/content/wknd-xwalk2/:/",
+    "/content/wknd-xwalk2/configuration:/.helix/config.json",
+    "/content/wknd-xwalk2/metadata:/metadata.json",
+    "/content/dam/wknd-xwalk2/:/assets/"
+  ],
+  "includes": [
+    "/content/wknd-xwalk2",
+    "/content/dam/wknd-xwalk2/"
+  ]
+}
